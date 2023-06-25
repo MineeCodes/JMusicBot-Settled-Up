@@ -20,4 +20,4 @@ Console.Write("{aan}", a);
 }
 ```
 # errors
-Do I have an error? Give issues in ../issues
+Do I have an error? Give issues in [issues](github.com/MineTurtlee/Blank/issues)
