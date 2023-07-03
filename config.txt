@@ -1,4 +1,4 @@
-token = ODEyNTI4MjM0ODU1Mzk5NDM1.Glbb4K.x2uJqNLu04s0Cxc94Nu3rCMVpmRwD6hEzOoDVE
+token = 
 owner = 808606684837576714
 prefix = "@mention"
 game = "NONE"
