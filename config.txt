@@ -1,0 +1,53 @@
+token = ODEyNTI4MjM0ODU1Mzk5NDM1.GDJtgh.FtUnxa5KnlnbZxZFy8sRJiktsPt4GZ0qgcr7Po
+owner = 808606684837576714
+prefix = "@mention"
+game = "NONE"
+status = ONLINE
+songinstatus=false
+altprefix = "t!, DJTurtle"
+success = "<:minecoins:1059042325885616190>"
+warning = "❗"
+error = "❌"
+loading = "⌚"
+searching = "🔎"
+help = help
+npimages = true
+stayinchannel = true
+maxtime = 0
+alonetimeuntilstop = 0
+playlistsfolder = "Playlists"
+updatealerts=true
+lyrics.default = "A-Z Lyrics"
+aliases {
+  settings = [ status ]
+
+  // Music commands
+  lyrics = [ lyrics, lyrs ]
+  nowplaying = [ np, current ]
+  play = [ p, play ]
+  playlists = [ pls ]
+  queue = [ list, queue ]
+  remove = [ delete, remove, del, rm ]
+  scsearch = [ scsearch, ss ]
+  search = [ ytsearch ]
+  shuffle = [ shuffle, sf ]
+  skip = [ voteskip ]
+
+  // Admin commands
+  prefix = [ setprefix ]
+  setdj = [ setdj, dj ]
+  settc = [ tc, settc ]
+  setvc = [ setvc, vc ]
+
+  // DJ Commands
+  forceremove = [ forcedelete, modremove, moddelete ]
+  forceskip = [ modskip ]
+  movetrack = [ move ]
+  pause = [ pause ]
+  playnext = [ next ]
+  repeat = [ loop, repeat ]
+  skipto = [ jumpto ]
+  stop = [ stop, abort ]
+  volume = [ vol ]
+}
+eval=false
